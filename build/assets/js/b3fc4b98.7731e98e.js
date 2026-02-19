@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkuziro_kmp=globalThis.webpackChunkuziro_kmp||[]).push([[2654],{6004(s){s.exports=JSON.parse('{"tags":[{"label":"Releases","permalink":"/kmp-notebook/docs/tags/releases","count":1},{"label":"Docusaurus","permalink":"/kmp-notebook/docs/tags/docusaurus","description":"Docs related to the Docusaurus framework","count":1}]}')}}]);
