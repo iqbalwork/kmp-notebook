@@ -12,7 +12,7 @@ Whether you are an Android developer looking to expand your skills to iOS, or a 
 
 ## Why Kotlin Multiplatform?
 
-In the past, developers had to choose between writing native code twice (once for iOS, once for Android) or compromising on performance and UI with cross-platform frameworks. 
+In the past, developers had to choose between writing native code twice (once for iOS, once for Android) or compromising on performance and UI with cross-platform frameworks such as React Native or Flutter. 
 
 KMP changes the game. It allows you to **share your core business logic** (networking, database, domain models) across platforms, while still giving you the freedom to write **100% native User Interfaces** for iOS, Android, Desktop, and Web.
 
@@ -25,7 +25,13 @@ This learning module is built around three core principles:
 * ⚡ **Modern Tech Stack:** You will get hands-on experience with the modern Kotlin ecosystem, including:
     * **Compose Multiplatform** for shared UI (when you want it).
     * **Ktor** for network requests.
+    * **Multiplatform Settings** as a replacement for SharedPreferences and NSUserDefaults/Keychain.
     * **SQLDelight** for robust local data persistence.
+    * **Kotlin Flow** for reactive programming.
+    * **Kotlinx Serialization** for data serialization.
+    * **Kotlinx Coroutines** for asynchronous programming.
+    * **Koin** for dependency injection.
+    * **Coil** as compose image loading library.
 
 ## Prerequisites
 
