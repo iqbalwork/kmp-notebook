@@ -9,7 +9,7 @@ Step-by-step guide to setting up your KMP development environment.
 
 ## JDK
 
-Install JDK 17 or higher.
+Install JDK 17 or higher to make sure that JVM can running on your maching.
 
 ## Android Studio
 
