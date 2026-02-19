@@ -1,7 +1,7 @@
 export default {
   tutorialSidebar: [
     'intro',
-    'hello',
+    'environment-setup',
     {
       type: 'category',
       label: 'Tutorial',
