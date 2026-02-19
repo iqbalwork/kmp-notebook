@@ -1,0 +1,37 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  /* Kotlin Brand Primary (Purple) */
+  --ifm-color-primary: #7f52ff;
+  --ifm-color-primary-dark: #5b21e6;
+  --ifm-color-primary-darker: #521dce;
+  --ifm-color-primary-darkest: #3d169a;
+  --ifm-color-primary-light: #a383ff;
+  --ifm-color-primary-lighter: #b59bff;
+  --ifm-color-primary-lightest: #d9ccff;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #7f52ff;
+  --ifm-color-primary-dark: #5b21e6;
+  --ifm-color-primary-darker: #521dce;
+  --ifm-color-primary-darkest: #3d169a;
+  --ifm-color-primary-light: #a383ff;
+  --ifm-color-primary-lighter: #b59bff;
+  --ifm-color-primary-lightest: #d9ccff;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Custom Hero Background honoring the Kotlin Logo Gradient */
+.hero--primary {
+  --ifm-hero-background-color: transparent;
+  background: linear-gradient(135deg, #0095D5 0%, #7F52FF 50%, #E87F1C 100%);
+}

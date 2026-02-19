@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@site/*": [
+                "./*"
+            ]
+        },
+        "skipLibCheck": true,
+        "lib": [
+            "esnext",
+            "dom"
+        ],
+        "checkJs": false,
+        "types": [
+            "@docusaurus/module-type-aliases",
+            "react",
+            "react-dom",
+            "node"
+        ]
+    },
+    "exclude": [
+        "node_modules",
+        "build",
+        ".docusaurus"
+    ]
+}
