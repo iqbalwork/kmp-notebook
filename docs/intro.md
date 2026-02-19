@@ -1,47 +1,42 @@
 ---
+id: intro
+title: Welcome to Uziro KMP Labqi
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome to Uziro KMP Labqi 🚀
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to **Uziro KMP Labqi**, your structured, hands-on learning module for mastering **Kotlin Multiplatform (KMP)**. 
 
-## Getting Started
+Whether you are an Android developer looking to expand your skills to iOS, or a cross-platform enthusiast looking for the best of both worlds, this guide is designed to take you from a basic understanding to building production-ready multiplatform applications.
 
-Get started by **creating a new site**.
+## Why Kotlin Multiplatform?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+In the past, developers had to choose between writing native code twice (once for iOS, once for Android) or compromising on performance and UI with cross-platform frameworks. 
 
-### What you'll need
+KMP changes the game. It allows you to **share your core business logic** (networking, database, domain models) across platforms, while still giving you the freedom to write **100% native User Interfaces** for iOS, Android, Desktop, and Web.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## What You Will Learn
 
-## Generate a new site
+This learning module is built around three core principles:
 
-Generate a new Docusaurus site using the **classic template**.
+* 🧠 **Unified Logic, Native UI:** Learn how to architect your app so the "brain" is shared, but the "face" remains native to each platform.
+* 💻 **Practical Hands-on Labs:** We skip the endless theory. Every module here is a progressive lab where you build real, working code.
+* ⚡ **Modern Tech Stack:** You will get hands-on experience with the modern Kotlin ecosystem, including:
+    * **Compose Multiplatform** for shared UI (when you want it).
+    * **Ktor** for network requests.
+    * **SQLDelight** for robust local data persistence.
 
-The classic template will automatically be added to your project after you run the command:
+## Prerequisites
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Before diving into the labs, you should have:
+1.  **Basic knowledge of Kotlin:** You don't need to be an expert, but you should understand variables, functions, and basic object-oriented programming in Kotlin.
+2.  **Familiarity with Mobile Development:** A basic understanding of how Android or iOS apps are structured will be helpful, though not strictly required.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+:::tip
+Don't worry if you haven't installed all the tools yet! Our first lab covers exactly how to set up your environment for both Android Studio and Xcode.
+:::
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Ready to Start?
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Let's get your environment ready and write your first piece of shared code!
