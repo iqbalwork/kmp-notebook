@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkuziro_kmp=globalThis.webpackChunkuziro_kmp||[]).push([[1903],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/kmp-notebook/blog","blogTitle":"Blog","authorsListPath":"/kmp-notebook/blog/authors"}')}}]);

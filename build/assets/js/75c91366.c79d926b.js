@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkuziro_kmp=globalThis.webpackChunkuziro_kmp||[]).push([[3375],{4840(o){o.exports=JSON.parse('{"metadata":{"permalink":"/kmp-notebook/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
